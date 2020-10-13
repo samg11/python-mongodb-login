@@ -52,4 +52,5 @@ def main():
             )
 
 if __name__ == "__main__":
+    print("Look at the README.md before running this code")
     main()
