@@ -1,4 +1,4 @@
-# PLACE YOUR CONNECTION STRING HERE
+# PASTE YOUR CONNECTION STRING HERE
 connection_string=""
 
 # pip install pymongo
